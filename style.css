@@ -1,0 +1,38 @@
+body{margin: 0;}
+
+.background
+{
+    width: 1500px;
+    height: 700px;
+    background-image:url("./children-girl-man-homeless.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.logo
+{padding: 60px;
+margin-left: 40px;
+    margin-top: 0px;
+    color: rgba(255, 217, 3, 0.678);
+    font-size:75px;
+    font-family: "Inter", sans-serif;
+    align-items: center;
+    justify-content: center;
+
+}
+.para{
+    margin:0px;
+    padding: 0px;
+}
+.feed
+{  margin: 10px 100px;
+    height: 100px;
+    width:300px;
+    color: white;
+    font-size: 10px;
+    font-family: verdana; 
+    font-weight: 400;
+
+}
+
+
